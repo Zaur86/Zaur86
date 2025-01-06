@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Zaur Gokoti. 
+
+I am a Data Engeneer since 2019 with a background in data analysis. 
+
+
 <!--
 **Zaur86/Zaur86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
