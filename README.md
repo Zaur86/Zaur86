@@ -1,6 +1,6 @@
 ## Zaur Gokoti
 
-A **Data Engineer** since 2019, with a strong background in **data analysis** and **CRM system integrations**.
+A **Data Engineer** since 2019, with a strong background in **data analysis**, **CRM system integrations** and **backend API development**.
 
 ---
 
