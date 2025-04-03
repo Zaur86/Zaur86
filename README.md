@@ -6,11 +6,11 @@ A **Data Engineer** since 2019, with a strong background in **data analysis**, *
 
 ### 🔧 **Skills & Technologies**:
 - **Programming Languages**: Python, SQL, R 
-- **Data Tools**: Apache Airflow, Spark, Pandas, Tidyverse
+- **Data Tools**: Apache Airflow, Apache NiFi, Apache Kafka, DBT, Spark, Pandas, Tidyverse, Celery, Redis, Avro
 - **Databases**: PostgreSQL, Greenplum, ClickHouse, MySQL, MongoDB
 - **Frameworks**: FastAPI, Flask, R Shiny
-- **Cloud Services**: AWS, Google Cloud, Yandex Cloud 
-- **Other Tools**: Docker, Git, Tableau, AmoCRM, Bitrix24
+- **Cloud Services**: AWS, Google Cloud, Yandex Cloud, S3, MinIO
+- **Other Tools**: Docker, Docker Compose, Git, Tableau, AmoCRM, Bitrix24
 
 ---
 
