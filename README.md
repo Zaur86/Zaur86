@@ -21,7 +21,9 @@ A **Data Engineer** since 2019, with a strong background in **data analysis**, *
 ---
 
 ### 📂 **Portfolio**:
-- [l-service](https://github.com/Zaur86/l-service) - A microservice built with **FastAPI** for efficient data ingestion and processing. It provides methods for transferring data from various sources to a **raw data storage** and subsequently to a **Data Warehouse (DWH)**, facilitating the development of flexible and reliable data pipelines.
+- [etl-mini](https://github.com/Zaur86/etl-mini) – A modular ETL framework in Python, built for flexible data integration pipelines. It includes abstract base services for external APIs, raw storage, and DWH, with clean separation between interface and implementation. The project supports both standard and custom pipelines (e.g., API → S3 → PostgreSQL, Elasticsearch → PostgreSQL), and includes transformation logic, error handling, testing, and utility layers.
+
+- [qdp](https://github.com/Zaur86/qdp) – **Quick Data Platform** – a lightweight orchestration-ready environment for rapidly launching and managing data pipelines. It integrates Apache Airflow, DBT, Kafka, NiFi, PostgreSQL, and MinIO in a Dockerized setup. The project includes modular ETL workflows, Data Vault 2.0 modeling, Kafka topic automation, and smoke tests, offering a full-stack foundation for building analytical data platforms.
 
 ---
 
