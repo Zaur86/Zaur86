@@ -30,6 +30,10 @@ A **Data Engineer** since 2019, with a strong background in **data analysis**, *
 ### 🌱 **Currently Learning**:
 - Advanced Airflow orchestration
 - DWH and Data Lake architectures
+- Apache NiFi flow design and automation
+- Real-time data streaming with Apache Kafka
+- DBT automation and model management
+- CI/CD workflows and command-line tooling (GitLab CI, Docker CLI)
 
 <!--
 **Zaur86/Zaur86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
