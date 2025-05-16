@@ -21,8 +21,7 @@ A **Data Engineer** since 2019, with a strong background in **data analysis**, *
 ---
 
 ### 📂 **Portfolio**:
-- [etl-mini](https://github.com/Zaur86/etl-mini) – A modular ETL framework in Python, built for flexible data integration pipelines. It includes abstract base services for external APIs, raw storage, and DWH, with clean separation between interface and implementation. The project supports both standard and custom pipelines (e.g., API → S3 → PostgreSQL, Elasticsearch → PostgreSQL), and includes transformation logic, error handling, testing, and utility layers.
-
+- [etl-mini](https://github.com/Zaur86/etl-mini) – A modular ETL framework in Python, designed as a **lightweight personal project** to demonstrate key principles of data pipeline architecture: modularity, separation of concerns, and integration with tools like S3, PostgreSQL, and Elasticsearch. Based on patterns used in my production experience.
 ---
 
 ### 🌱 **Currently Learning**:
