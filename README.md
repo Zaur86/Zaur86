@@ -1,16 +1,18 @@
 ## Zaur Gokoti
 
-A **Data Engineer** since 2019, with a strong background in **data analysis**, **CRM system integrations** and **backend API development**.
+A **Data Engineer** since 2019, with a strong focus on **backend and full stack development**, and a solid background in **data analysis** and **CRM system integrations**.
 
 ---
 
 ### 🔧 **Skills & Technologies**:
-- **Programming Languages**: Python, SQL, R 
+- **Programming Languages**: Python, SQL, JavaScript, R 
 - **Data Tools**: Apache Airflow, Apache NiFi, Apache Kafka, DBT, Spark, Pandas, Tidyverse, Celery, Redis, Avro
 - **Databases**: PostgreSQL, Greenplum, ClickHouse, MySQL, MongoDB
-- **Frameworks**: FastAPI, Flask, R Shiny
+- **Frameworks**: FastAPI, Flask, React, R Shiny
+- **Frontend Tooling**: HTML/CSS, Vite, Tailwind CSS, shadcn/ui, Phaser
+- **Integrations & APIs**: Telegram Bot API, Google Ads API, Facebook Marketing API, Apple Search Ads API, AmoCRM API, Bitrix24 API
 - **Cloud Services**: AWS, Google Cloud, Yandex Cloud, S3, MinIO
-- **Other Tools**: Docker, Docker Compose, Git, Tableau, AmoCRM, Bitrix24
+- **Other Tools**: Docker, Docker Compose, Git, Tableau, Metabase
 
 ---
 
@@ -22,15 +24,14 @@ A **Data Engineer** since 2019, with a strong background in **data analysis**, *
 
 ### 📂 **Portfolio**:
 - [etl-mini](https://github.com/Zaur86/etl-mini) – A modular ETL framework in Python, designed as a **lightweight personal project** to demonstrate key principles of data pipeline architecture: modularity, separation of concerns, and integration with tools like S3, PostgreSQL, and Elasticsearch. Based on patterns used in my production experience.
+
 ---
 
-### 🌱 **Currently Learning**:
-- Advanced Airflow orchestration
-- DWH and Data Lake architectures
-- Apache NiFi flow design and automation
-- Real-time data streaming with Apache Kafka
-- DBT automation and model management
-- CI/CD workflows and command-line tooling (GitLab CI, Docker CLI)
+### 🎯 **Focus Areas**
+- Workflow automation with Apache Airflow and NiFi
+- Scalable DWH design (Data Vault 2.0, Anchor model, DBT)
+- Real-time data delivery with Kafka
+- Web applications for analytics, data workflows, and content management with React
 
 <!--
 **Zaur86/Zaur86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
