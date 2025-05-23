@@ -9,7 +9,7 @@ A **Data Engineer** since 2019, with a strong focus on **backend and full stack 
 - **Data Tools**: Apache Airflow, Apache NiFi, Apache Kafka, DBT, Spark, Pandas, Tidyverse, Celery, Redis, Avro
 - **Databases**: PostgreSQL, Greenplum, ClickHouse, MySQL, MongoDB
 - **Frameworks**: FastAPI, Flask, React, R Shiny
-- **Frontend Tooling**: HTML/CSS, Vite, Tailwind CSS, shadcn/ui, Phaser
+- **Frontend Tooling**: HTML/CSS, Next.js, TypeScript, Tailwind CSS, shadcn/ui
 - **Integrations & APIs**: Telegram Bot API, Google Ads API, Facebook Marketing API, Apple Search Ads API, AmoCRM API, Bitrix24 API
 - **Cloud Services**: AWS, Google Cloud, Yandex Cloud, S3, MinIO
 - **Other Tools**: Docker, Docker Compose, Git, Tableau, Metabase
